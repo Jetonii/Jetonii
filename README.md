@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on any big project.
-- 📫 How to reach me: whatsapp and viber: +383 49 643 455 and email: jetonsllamnikU@gmail.com
+- 📫 How to reach me: email: jetonsllamniku@gmail.com, Whatsapp and Viber: +383 49 643 455.
 
 <!---
 Jetonii/Jetonii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

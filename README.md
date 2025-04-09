@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jeton Sllamniku, I have 3+ years of experience. 
-- 👀 I’m as a Software Developer | C#/.NET | NODEJS | REACT.
+- 👋 Hi, I’m Jeton Sllamniku, I have 3+ years of experience as a Back End Developer. 
+- 👀 My main skills: C#/.NET | NODEJS | REACT.
 - 📫 How to reach me: email: jetonsllamniku@gmail.com.
 
 <!---

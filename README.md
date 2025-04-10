@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeton Sllamniku, I have over 3 years of experience as a Back End Developer. 
-- 👀 My main skills: C#/.NET | NODEJS | Azure | AWS | Git | Redis | SQL | MongoDB | Scraping/Crawling | Message Queues.
+- 👀 My main skills: C#/.NET | NodeJS | Azure | AWS | Git | Redis | SQL | MongoDB | Scraping/Crawling | Message Queues.
 - 📫 How to reach me: email: jetonsllamniku@gmail.com.
 
 <!---
